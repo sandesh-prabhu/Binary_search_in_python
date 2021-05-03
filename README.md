@@ -1,1 +1,1 @@
-# this is a quick sort algorithm
+# A python program for Binary search algorithm
